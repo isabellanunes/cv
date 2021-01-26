@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber main-pt-br"] 1611693531 "main-pt-br.bcf" "main-pt-br.bbl" "main-pt-br" 1611701909
-  "main-pt-br.bcf" 1611701908 101145 53a9fe15afd31fe359198de69500939c "pdflatex"
+["biber main-pt-br"] 1611693531 "main-pt-br.bcf" "main-pt-br.bbl" "main-pt-br" 1611703646
+  "main-pt-br.bcf" 1611702797 101145 53a9fe15afd31fe359198de69500939c "pdflatex"
   (generated)
-  "main-pt-br.bbl"
   "main-pt-br.blg"
-["pdflatex"] 1611701902 "c:/Users/320116294/git/cv/pt-br/main-pt-br.tex" "c:/Users/320116294/git/cv/pt-br/main-pt-br.pdf" "main-pt-br" 1611701909
+  "main-pt-br.bbl"
+["pdflatex"] 1611702794 "c:/Users/320116294/git/cv/pt-br/main-pt-br.tex" "c:/Users/320116294/git/cv/pt-br/main-pt-br.pdf" "main-pt-br" 1611703646
   "altacv.cls" 1611698298 10992 3c5258d9f3bf9a5e3e0f06e08bad220e ""
-  "c:/Users/320116294/git/cv/pt-br/main-pt-br.aux" 1611701908 422 53d4d2e597a0f5ee8d49acbe3dda8713 ""
-  "c:/Users/320116294/git/cv/pt-br/main-pt-br.tex" 1611701899 5405 645fd55cc24dd3850386cbdfea0dd57f ""
+  "c:/Users/320116294/git/cv/pt-br/main-pt-br.aux" 1611702797 422 53d4d2e597a0f5ee8d49acbe3dda8713 ""
+  "c:/Users/320116294/git/cv/pt-br/main-pt-br.tex" 1611703644 5401 1e6cd73ff276286b81e56665cf7fee7e ""
   "c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1611288355 1687 f004baecce60175c6453d0e3f808cf20 ""
   "c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1611288355 2437 443c81fb50993bacedc5f9a206c322b0 ""
   "c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1611288355 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -178,15 +178,15 @@
   "c:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1611290573 2432390 366c2d4ed1032eff7a7d528bd05b6d10 ""
   "c:/texlive/2020/texmf.cnf" 1611290461 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   "main-pt-br-sidebar.tex" 1611701901 1477 ae7e308a72c2caa56b3c156a7b7bb5fd ""
-  "main-pt-br.aux" 1611701908 422 53d4d2e597a0f5ee8d49acbe3dda8713 "pdflatex"
+  "main-pt-br.aux" 1611702797 422 53d4d2e597a0f5ee8d49acbe3dda8713 "pdflatex"
   "main-pt-br.bbl" 1611693534 0 d41d8cd98f00b204e9800998ecf8427e "biber main-pt-br"
-  "main-pt-br.run.xml" 1611701908 2272 7ad300f1746d16d1f1fb203e2cc7b825 "pdflatex"
-  "main-pt-br.tex" 1611701899 5405 645fd55cc24dd3850386cbdfea0dd57f ""
+  "main-pt-br.run.xml" 1611702797 2272 7ad300f1746d16d1f1fb203e2cc7b825 "pdflatex"
+  "main-pt-br.tex" 1611703644 5401 1e6cd73ff276286b81e56665cf7fee7e ""
   (generated)
-  "main-pt-br.bcf"
   "main-pt-br.run.xml"
-  "c:/Users/320116294/git/cv/pt-br/main-pt-br.log"
+  "main-pt-br.aux"
   "main-pt-br.log"
   "c:/Users/320116294/git/cv/pt-br/main-pt-br.pdf"
-  "main-pt-br.aux"
+  "c:/Users/320116294/git/cv/pt-br/main-pt-br.log"
   "main-pt-br.pdf"
+  "main-pt-br.bcf"
