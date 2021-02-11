@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber main-pt-br"] 1611693531 "main-pt-br.bcf" "main-pt-br.bbl" "main-pt-br" 1611703646
+["biber main-pt-br"] 1611693531 "main-pt-br.bcf" "main-pt-br.bbl" "main-pt-br" 1612216418
   "main-pt-br.bcf" 1611702797 101145 53a9fe15afd31fe359198de69500939c "pdflatex"
   (generated)
-  "main-pt-br.blg"
   "main-pt-br.bbl"
-["pdflatex"] 1611702794 "c:/Users/320116294/git/cv/pt-br/main-pt-br.tex" "c:/Users/320116294/git/cv/pt-br/main-pt-br.pdf" "main-pt-br" 1611703646
+  "main-pt-br.blg"
+["pdflatex"] 1611702794 "c:/Users/320116294/git/cv/pt-br/main-pt-br.tex" "c:/Users/320116294/git/cv/pt-br/main-pt-br.pdf" "main-pt-br" 1612216418
   "altacv.cls" 1611698298 10992 3c5258d9f3bf9a5e3e0f06e08bad220e ""
   "c:/Users/320116294/git/cv/pt-br/main-pt-br.aux" 1611702797 422 53d4d2e597a0f5ee8d49acbe3dda8713 ""
   "c:/Users/320116294/git/cv/pt-br/main-pt-br.tex" 1611703644 5401 1e6cd73ff276286b81e56665cf7fee7e ""
@@ -183,10 +183,10 @@
   "main-pt-br.run.xml" 1611702797 2272 7ad300f1746d16d1f1fb203e2cc7b825 "pdflatex"
   "main-pt-br.tex" 1611703644 5401 1e6cd73ff276286b81e56665cf7fee7e ""
   (generated)
-  "main-pt-br.run.xml"
-  "main-pt-br.aux"
   "main-pt-br.log"
-  "c:/Users/320116294/git/cv/pt-br/main-pt-br.pdf"
   "c:/Users/320116294/git/cv/pt-br/main-pt-br.log"
-  "main-pt-br.pdf"
+  "c:/Users/320116294/git/cv/pt-br/main-pt-br.pdf"
+  "main-pt-br.aux"
   "main-pt-br.bcf"
+  "main-pt-br.run.xml"
+  "main-pt-br.pdf"

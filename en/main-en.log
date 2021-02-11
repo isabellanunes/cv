@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.22)  26 JAN 2021 20:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.22)  1 FEB 2021 19:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1164,28 +1164,27 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 1.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 1.
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 3.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 3.
- (c:/texlive/2020/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd)
-Underfull \hbox (badness 10000) in paragraph at lines 47--53
-[][] 
- []
-
-
-Underfull \hbox (badness 4181) in paragraph at lines 47--53
-[] 
- []
-
-)
-LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input line 97.
+LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input line 4.
  (c:/texlive/2020/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 97.
- [1
+(Font)              scaled to size 9.0pt on input line 4.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 9.
+ (c:/texlive/2020/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 53--59
+[][] 
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 53--59
+[] 
+ []
+
+) [1
 
 {c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (c:/Users/320116294/git/cv/en/main-en.aux)
 Package logreq Info: Writing requests to 'main-en.run.xml'.
@@ -1195,13 +1194,13 @@ Package logreq Info: Writing requests to 'main-en.run.xml'.
 Here is how much of TeX's memory you used:
  25675 strings out of 480608
  521936 string characters out of 5907536
- 1168355 words of memory out of 5000000
+ 1169355 words of memory out of 5000000
  41154 multiletter control sequences out of 15000+600000
  800795 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,12n,96p,1161b,790s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2020/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb><c:/texlive/2020/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on c:/Users/320116294/git/cv/en/main-en.pdf (1 page, 88144 bytes).
+ 72i,12n,96p,1161b,794s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2020/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb><c:/texlive/2020/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb>
+Output written on c:/Users/320116294/git/cv/en/main-en.pdf (1 page, 88254 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream

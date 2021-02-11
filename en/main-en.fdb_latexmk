@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber main-en"] 1611701287 "main-en.bcf" "main-en.bbl" "main-en" 1611704035
-  "main-en.bcf" 1611704035 101145 53a9fe15afd31fe359198de69500939c "pdflatex"
+["biber main-en"] 1611701287 "main-en.bcf" "main-en.bbl" "main-en" 1612218660
+  "main-en.bcf" 1612218659 101145 53a9fe15afd31fe359198de69500939c "pdflatex"
   (generated)
   "main-en.blg"
   "main-en.bbl"
-["pdflatex"] 1611704032 "c:/Users/320116294/git/cv/en/main-en.tex" "c:/Users/320116294/git/cv/en/main-en.pdf" "main-en" 1611704035
+["pdflatex"] 1612218656 "c:/Users/320116294/git/cv/en/main-en.tex" "c:/Users/320116294/git/cv/en/main-en.pdf" "main-en" 1612218660
   "altacv.cls" 1611698298 10992 3c5258d9f3bf9a5e3e0f06e08bad220e ""
-  "c:/Users/320116294/git/cv/en/main-en.aux" 1611704035 422 53d4d2e597a0f5ee8d49acbe3dda8713 ""
-  "c:/Users/320116294/git/cv/en/main-en.tex" 1611704031 5302 96301382fd86e429a26f2fe14f08e6af ""
+  "c:/Users/320116294/git/cv/en/main-en.aux" 1612218659 422 53d4d2e597a0f5ee8d49acbe3dda8713 ""
+  "c:/Users/320116294/git/cv/en/main-en.tex" 1612216459 5302 96301382fd86e429a26f2fe14f08e6af ""
   "c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1611288355 1687 f004baecce60175c6453d0e3f808cf20 ""
   "c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1611288355 2437 443c81fb50993bacedc5f9a206c322b0 ""
   "c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1611288355 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -177,16 +177,16 @@
   "c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1611290488 4851253 a533a4526d7bf069c355e34a42d65ce7 ""
   "c:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1611290573 2432390 366c2d4ed1032eff7a7d528bd05b6d10 ""
   "c:/texlive/2020/texmf.cnf" 1611290461 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "main-en-sidebar.tex" 1611702607 1323 fd0cd8cef9d9b9d2d8cd7ac86ea49f4f ""
-  "main-en.aux" 1611704035 422 53d4d2e597a0f5ee8d49acbe3dda8713 "pdflatex"
+  "main-en-sidebar.tex" 1612218651 1462 304bb05aa455d30473e1b14843266ab8 ""
+  "main-en.aux" 1612218659 422 53d4d2e597a0f5ee8d49acbe3dda8713 "pdflatex"
   "main-en.bbl" 1611701294 0 d41d8cd98f00b204e9800998ecf8427e "biber main-en"
-  "main-en.run.xml" 1611704035 2251 ed7e31384540fe209cb9391be2422051 "pdflatex"
-  "main-en.tex" 1611704031 5302 96301382fd86e429a26f2fe14f08e6af ""
+  "main-en.run.xml" 1612218659 2251 ed7e31384540fe209cb9391be2422051 "pdflatex"
+  "main-en.tex" 1612216459 5302 96301382fd86e429a26f2fe14f08e6af ""
   (generated)
-  "main-en.log"
-  "main-en.bcf"
-  "c:/Users/320116294/git/cv/en/main-en.log"
-  "c:/Users/320116294/git/cv/en/main-en.pdf"
-  "main-en.aux"
   "main-en.pdf"
+  "main-en.aux"
+  "main-en.log"
+  "c:/Users/320116294/git/cv/en/main-en.pdf"
+  "c:/Users/320116294/git/cv/en/main-en.log"
   "main-en.run.xml"
+  "main-en.bcf"
